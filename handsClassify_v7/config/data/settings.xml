@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<settings>
+  <!--
+  use ipcam camtype=ipcam & camdevice=<url> (string)
+  use USB camera camtype=cam & camdevice=0~1 (int)
+  -->
+  <camtype>cam</camtype>
+  <camdevice>0</camdevice>
+  <savefolder>images/</savefolder>
+  <linkfile>config/result.txt</linkfile>
+  <mainpicsfolder>config/pics/</mainpicsfolder>
+</settings>

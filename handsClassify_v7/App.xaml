@@ -1,0 +1,25 @@
+﻿<Application x:Class="handsClassify_v7.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"             
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <Style x:Key="buttonStyle" TargetType="{x:Type Button}">
+            <Setter Property="Width" Value="120" />
+            <Setter Property="Height" Value="60" />
+            <Setter Property="Margin" Value="5" />
+            <Setter Property="FontSize" Value="24" />
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+        </Style>
+
+        <Style x:Key="borderStyle" TargetType="{x:Type Border}">
+            <Setter Property="Padding" Value="2"/>
+            <Setter Property="Margin" Value="3"/>
+            <Setter Property="BorderBrush" Value="#FF2E5FB4"/>
+            <Setter Property="BorderThickness" Value="2"/>
+            <Setter Property="CornerRadius" Value="10"/>
+            <Setter Property="Background" Value="#CCFFFFFF"/>
+        </Style>
+
+    </Application.Resources>
+</Application>

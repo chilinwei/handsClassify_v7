@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CUData>
+  <form cno ="00001">
+    <idno>A000000001</idno>
+    <name>王曉明</name>
+    <sex>M</sex>
+    <age>27</age>
+    <rno>17763</rno>
+    <ccode>01</ccode>
+    <ctype>X光檢查</ctype>
+    <cnote>左手拇指第一節</cnote>
+    <cpart>hand</cpart>
+    <ckind>L</ckind>
+    <hcode>33113</hcode>
+    <dts>2017/03/01 17:00</dts>
+    <dte>2017/03/01 19:00</dte>
+    <title>標題</title>
+    <content>內容</content>    
+    <notice>注意事項</notice>
+    <hname>馬偕醫院</hname>
+    <stel>02-33112277</stel>
+  </form>
+  <form cno ="00002">
+    <idno>A000000002</idno>
+    <name>李泰山</name>
+    <sex>M</sex>
+    <age>37</age>
+    <rno>17763</rno>
+    <ccode>01</ccode>
+    <ctype>X光檢查</ctype>
+    <cnote>右手食指第一節</cnote>
+    <cpart>hand</cpart>
+    <ckind>R</ckind>
+    <hcode>33113</hcode>
+    <dts>2017/03/01 17:00</dts>
+    <dte>2017/03/01 19:00</dte>
+    <title>標題</title>
+    <content>內容</content>
+    <notice>注意事項</notice>
+    <hname>馬偕醫院</hname>
+    <stel>02-33112277</stel>
+  </form>
+  <form cno ="00003">
+    <idno>A000000003</idno>
+    <name>孫燕子</name>
+    <sex>F</sex>
+    <age>47</age>
+    <rno>17763</rno>
+    <ccode>01</ccode>
+    <ctype>X光檢查</ctype>
+    <cnote>左手食指第二節</cnote>
+    <cpart>hand</cpart>
+    <ckind>L</ckind>
+    <hcode>33113</hcode>
+    <dts>2017/03/01 17:00</dts>
+    <dte>2017/03/01 19:00</dte>
+    <title>標題</title>
+    <content>內容</content>
+    <notice>注意事項</notice>
+    <hname>馬偕醫院</hname>
+    <stel>02-33112277</stel>
+  </form>
+</CUData>
